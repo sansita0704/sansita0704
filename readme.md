@@ -15,10 +15,10 @@ Seeking a remote internship to apply and sharpen my development skills through h
 
 <!-- -   📄 **[Resume](https://drive.google.com/file/d/1UHCHQsTe7jQk9BSKmZElJ0fucD8wq0Od)** -->
 
--   💼 **[LinkedIn](https://linkedin.com/in/sansita0704)**
+-   **[LinkedIn](https://linkedin.com/in/sansita0704)**
 <!-- -   🏆 **[LeetCode](https://leetcode.com/samyak1409)** -->
--   📧 **[Email](mailto:sansita7406@gmail.com)**
+-   **[Email](mailto:sansita7406@gmail.com)**
 
 ##
 
-✨ _Let's connect and collaborate!_ 🚀
+_Let's connect and collaborate!_ ✨
