@@ -7,7 +7,7 @@
 
 ## <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" width="32"> About Me
 
-Enthusiastic CS undergraduate passionate about front-end development and problem-solving, currently building JavaScript-based projects while actively practicing Data Structures & Algorithms.
+Enthusiastic CS undergraduate passionate about full-stack development and problem-solving, currently building full-stack web applications while actively practicing Data Structures & Algorithms.
 
 Seeking a remote internship to apply and sharpen my development skills through hands-on experience.
 
